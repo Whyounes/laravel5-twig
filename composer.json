@@ -11,7 +11,7 @@
     "twig/twig": "1.18.*"
   },
   "autoload": {
-    "psr-4": {
+    "psr-0": {
       "RAFIE\\": "src/"
     }
   }
