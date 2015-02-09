@@ -1,0 +1,19 @@
+{
+  "name": "TwigLaravel5",
+  "description": "Twig for Laravel 5",
+  "authors": [
+    {
+      "name": "RAFIE Younes",
+      "email": "younes.rafie@gmail.com"
+    }
+  ],
+  "require": {
+    "twig/twig": "1.18.*",
+    "laravel/laravel": "5.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "RAFIE\\": "src/"
+    }
+  }
+}
